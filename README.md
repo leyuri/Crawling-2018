@@ -59,7 +59,7 @@ tokens_noun = [word for word, pos in tokens_tagged if pos in ['NN', 'NNP’]]
 
 | <img width="284" alt="Screen Shot 2020-06-23 at 5 41 17 PM" src="https://user-images.githubusercontent.com/33794732/85381568-0e12ba00-b579-11ea-81df-1c6d1a4de809.png"> | <img width="284" alt="Screen Shot 2020-06-23 at 5 41 26 PM" src="https://user-images.githubusercontent.com/33794732/85381593-14a13180-b579-11ea-894b-4696641a8b4a.png"> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-|                                                              |                                                              |
+
 
 KPOP의 2013 데이터에 비하여 2018에는 BTS가 도출되었음을 확인할 수 있었습니다. 즉 BTS는 KPOP의 동향 분석에서 파급 효과를 가지고 있음을 추론할 수 있었습니다. 
 
